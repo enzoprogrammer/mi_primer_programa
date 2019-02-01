@@ -25,11 +25,15 @@ while operar !=False:
     else:
         print("Elija bien las opciones...")
 
+    print(" ")
     seguir_operando= input("Desea realizar una nueva operacion? Si / No").upper()
 
     if seguir_operando== "NO":
         operar= False
 
+print(" ")
+print("------------------------POWER OFF-------------------------")
+print(" ")
 
 
 
