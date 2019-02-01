@@ -1,1 +1,1 @@
-# mi_primer_programa
+Aqui estan todos mis primero proyectos de Python que estoy haciendo siguiendo la academia de Nate Gentile
