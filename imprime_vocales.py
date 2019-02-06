@@ -1,7 +1,7 @@
 print("")
 print("Este programa sirve para imprimir por pantalla todas las vocales que aparecen en una frase...")
 print(" ")
-vocales=["a", "e", "i", "o", "u"]
+vocales=["a", "A", "e", "E", "i", "I", "o", "O", "u", "U"]
 operar= True
 lista_vocales= []
 
