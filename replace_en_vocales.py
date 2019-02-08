@@ -1,6 +1,6 @@
 iteraciones= 0
 while iteraciones < 5:
-    string_usuario = input("Escriba una frase: ")
+    string_usuario = input("Escriba una frase: ").lower()
     string_usuario = string_usuario.replace("a", "i")
     string_usuario = string_usuario.replace("e", "i")
     string_usuario = string_usuario.replace("i", "i")
