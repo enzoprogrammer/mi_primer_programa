@@ -33,6 +33,7 @@ for numero in lista_numeros:
         multiplos_siete.append(numero)
 
 print(" ")
+print(lista_numeros)
 print("-------------------------------------------------------------------")
 print("Los multiplos de 2 son: {}".format(multiplos_dos))
 print(" ")
