@@ -1,4 +1,4 @@
-def añadir_a_lista_numeros(pregunta):
+def agregar_a_lista_numeros(pregunta):
     operar= True
     lista_usuario=[]
     while operar != False:
@@ -16,7 +16,7 @@ def pares_en_la_lista(lista):
             lista_pares.append(numero)
     return lista_pares
 
-lista_usuario= añadir_a_lista_numeros("Dime un numero para añadir a la lista: ")
+lista_usuario= agregar_a_lista_numeros("Dime un numero para añadir a la lista: ")
 print(lista_usuario)
 print(" ")
 print(pares_en_la_lista(lista_usuario))
